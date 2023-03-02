@@ -2,8 +2,8 @@
 user-guide-title: Adobe Advertising – Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Advertising.
 breadcrumb-title: Advertising – Tutorials
-solution: Advertising, Advertising Cloud
-source-git-commit: d30a1b72f953f0357d5f2d5c170153226369e519
+solution: Advertising
+source-git-commit: 2dc8823f7daba768f758491d60799340a6ff4c7c
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 15%
