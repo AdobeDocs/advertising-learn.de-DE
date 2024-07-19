@@ -1,5 +1,5 @@
 ---
-title: Erstellen [!DNL Analytics] Benutzerdefinierte Metriken mit Adobe Advertising-Daten
+title: Erstellen [!DNL Analytics] benutzerdefinierter Metriken mit Adobe Advertising-Daten
 description: Erfahren Sie mehr über nützliche benutzerdefinierte Metriken, die bei der Verwendung von Adobe Advertising-Daten in Adobe Analytics erstellt werden.
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Erstellen [!DNL Analytics] Benutzerdefinierte Metriken mit Adobe Advertising-Daten
+# Erstellen von [!DNL Analytics] benutzerdefinierten Metriken mit Adobe Advertising-Daten
 
 *Advertiser mit[!DNL Adobe Analytics for Adobe Advertising]*
 

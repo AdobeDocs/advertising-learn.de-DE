@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Adobe Advertising-Dashboards mit Adobe Analytics
-description: Erfahren Sie mehr über die Erstellung eines Adobe Advertising-Dashboards zur Live-Kampagnenüberwachung
+description: Erfahren Sie mehr über die Erstellung eines Adobe Advertising-Dashboards zur Überwachung von Live-Kampagnen.
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics

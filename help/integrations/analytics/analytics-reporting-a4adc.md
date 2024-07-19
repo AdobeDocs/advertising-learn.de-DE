@@ -1,6 +1,6 @@
 ---
 title: Reporting mit Adobe Advertising-Marketingkanälen
-description: Erfahren Sie, wie die Viewthrough- und Clickthrough-Eingabedaten von Adobe Advertisingen mit Adobe Analytics funktionieren. [!DNL Marketing Channels].
+description: Erfahren Sie, wie die Adobe Advertising-Durchsichts- und Clickthrough-Eingabedaten mit Adobe Analytics [!DNL Marketing Channels] funktionieren.
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 *Advertiser mit[!DNL Adobe Analytics for Adobe Advertising]*
 
-Erfahren Sie, wie die Viewthrough- und Clickthrough-Eingabedaten von Adobe Advertisingen mit Adobe Analytics funktionieren. [!DNL Marketing Channels].
+Erfahren Sie, wie die Adobe Advertising-Durchsichts- und Clickthrough-Eingabedaten mit Adobe Analytics [!DNL Marketing Channels] funktionieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)

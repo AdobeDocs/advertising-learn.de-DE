@@ -1,5 +1,5 @@
 ---
-title: Erstellen [!DNL Analytics] Profile für die Aktivierung und Berichterstellung von Adobe Advertisingen
+title: Erstellen von [!DNL Analytics] Profilen für die Adobe Advertising-Aktivierung und -Berichterstellung
 description: Erfahren Sie, wie Sie mit Adobe Analytics robuste Site-Retargeting-Pools für Adobe Advertising-Remarketing erstellen.
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Erstellen [!DNL Analytics] Profile für die Aktivierung und Berichterstellung von Adobe Advertisingen
+# Erstellen von [!DNL Analytics] Profilen für die Adobe Advertising-Aktivierung und -Berichterstellung
 
 *Advertiser mit[!DNL Adobe Analytics for Adobe Advertising]*
 
