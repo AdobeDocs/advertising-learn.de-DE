@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
-source-git-commit: 84f4abdff7ed8a4099c98ba87a12d05e0aedc3f1
+source-git-commit: bf36b29526f550759e58e57477171e9925a2787c
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '60'
 ht-degree: 25%
 
 ---
@@ -20,7 +20,7 @@ Videos sind verfügbar für:
 
 * Advertising DSP
 
-* Advertising DSP- und Advertising-Suchintegrationen mit anderen Adobe Experience Cloud-Produkten und -Diensten
+* Advertising DSP- und Advertising Search-, Social- und Commerce-Integrationen mit anderen Adobe Experience Cloud-Produkten und -Diensten
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
