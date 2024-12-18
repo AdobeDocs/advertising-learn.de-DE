@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Erstellen einer Kampagnenanalyse vor dem Start mit Adobe Analytics
 
-*Advertiser mit[!DNL Adobe Analytics for Adobe Advertising]*
+*Werbetreibende mit[!DNL Adobe Analytics for Adobe Advertising]*
 
 Erfahren Sie, wie Sie mit Adobe Analytics die Grundlage für den Start einer Adobe Advertising-Paid-Media-Kampagne schaffen.
 

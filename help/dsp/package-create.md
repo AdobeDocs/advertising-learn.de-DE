@@ -10,8 +10,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines Pakets
+# So erstellen Sie ein Paket
 
-Erfahren Sie, wie Sie ein Package für eine DSP Kampagne erstellen.
+Erfahren Sie, wie Sie ein Package für eine DSP-Kampagne erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339257)

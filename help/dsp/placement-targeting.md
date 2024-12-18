@@ -9,9 +9,9 @@ ht-degree: 0%
 
 ---
 
-# Platzierungs-Targeting-Funktionen
+# Zielgruppenbestimmungsfunktionen für Platzierungen
 
-Erfahren Sie mehr über die verschiedenen Targeting-Optionen für Ihre DSP Platzierungen.
+Erfahren Sie mehr über die verschiedenen Targeting-Optionen für Ihre DSP-Platzierungen.
 
 <!--
 >[!VIDEO]()

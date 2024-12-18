@@ -12,6 +12,6 @@ ht-degree: 0%
 
 # Erstellen einer standardmäßigen Anzeigeplatzierung
 
-Erfahren Sie, wie Sie eine standardmäßige Anzeigeplatzierung für eine DSP Kampagne erstellen.
+Erfahren Sie, wie Sie eine standardmäßige Anzeigeplatzierung für eine DSP-Kampagne erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340454)

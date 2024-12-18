@@ -7,6 +7,6 @@ ht-degree: 0%
 ---
 # Adobe Advertising DSP Tutorials
 
-Dies ist der Ordner für Videoseiten zu DSP.
+Dies ist der Ordner für Videoseiten zur DSP.
 
 **Hinweis: Diese Seite wird nicht in der kundenorientierten Dokumentation veröffentlicht.**

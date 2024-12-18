@@ -1,6 +1,6 @@
 ---
-title: Erstellen von [!DNL Analytics] Segmenten für Aktivierung und Berichterstellung
-description: Erfahren Sie, wie Sie mit Adobe Advertising-Dimensionen Segmente für eine sauberere Berichterstellung und Analyse erstellen können.
+title: Segmente  [!DNL Analytics]  Aktivierung und Reporting erstellen
+description: Erfahren Sie, wie Sie mit Adobe Advertising-Dimensionen Segmente für saubereres Reporting und Analyse erstellen können.
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# Erstellen von [!DNL Analytics] Segmenten für Aktivierung und Berichterstellung
+# Erstellen [!DNL Analytics] Segmente für Aktivierung und Reporting
 
-*Advertiser mit[!DNL Adobe Analytics for Adobe Advertising]*
+*Werbetreibende mit[!DNL Adobe Analytics for Adobe Advertising]*
 
-Erfahren Sie, wie Sie mit Adobe Advertising-Dimensionen Segmente für eine sauberere Berichterstellung und Analyse erstellen können.
+Erfahren Sie, wie Sie mit Adobe Advertising-Dimensionen Segmente für saubereres Reporting und Analyse erstellen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33916)

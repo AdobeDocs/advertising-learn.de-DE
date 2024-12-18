@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Adobe Advertising Site-Einstiegsberichten
-description: Erfahren Sie, wie Sie einen Bericht über den Website-Einstieg erstellen, um Wochentag, Tageszeit, Browser und geografische Einflüsse zu überwachen.
+title: Erstellen von Site-Einstiegsberichten für Adobe Advertising
+description: Erfahren Sie, wie Sie einen Adobe Advertising-Site-Einstiegsbericht erstellen, um Wochentag, Tageszeit, Browser und geografische Einflüsse zu überwachen.
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# Erstellen von Adobe Advertising Site-Einstiegsberichten
+# Erstellen von Site-Einstiegsberichten für Adobe Advertising
 
-*Advertiser mit[!DNL Adobe Analytics for Adobe Advertising]*
+*Werbetreibende mit[!DNL Adobe Analytics for Adobe Advertising]*
 
-Erfahren Sie, wie Sie einen Bericht über den Website-Einstieg erstellen, um Wochentag, Tageszeit, Browser und geografische Einflüsse zu überwachen.
+Erfahren Sie, wie Sie einen Adobe Advertising-Site-Einstiegsbericht erstellen, um Wochentag, Tageszeit, Browser und geografische Einflüsse zu überwachen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33921)
