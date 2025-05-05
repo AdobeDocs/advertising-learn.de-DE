@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mehrere Anzeigen-Tags von Drittanbietern gleichzeitig hochladen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/339204)
+>[!VIDEO](https://video.tv.adobe.com/v/342174?captions=ger)
