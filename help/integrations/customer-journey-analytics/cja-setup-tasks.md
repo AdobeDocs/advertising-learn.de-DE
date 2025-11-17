@@ -6,9 +6,9 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: b262e156303c0502e2947038aac36b88d54c2480
+source-git-commit: 0673141e34adf4634c4af068375137573b7f2598
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '190'
 ht-degree: 1%
 
 ---
@@ -25,36 +25,36 @@ Nachdem Sie diese Schritte ausgeführt und die Datenansicht für Ihr Adobe-Konto
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476810)
 
-### Standortkonto in Customer Journey Analytics einrichten
+### Schritt 1: Standortkonto in Customer Journey Analytics einrichten
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476811)
 
-### Erstellen einer Datenansicht in Analysis Workspace mit den zu exportierenden Metriken
+### Schritt 2: Erstellen Sie eine Datenansicht in Analysis Workspace mit den zu exportierenden Metriken
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476823)
 
 >[!MORELIKETHIS]
 >
->* [Überblick über die Integration zwischen Adobe Advertising und Customer Journey Analytics](https://experienceleague.adobe.com/de/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Überblick über die Integration zwischen Adobe Advertising und Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
-## Ersteinrichtung von Aufgaben zum Anzeigen von Adobe Advertising-Kampagnendaten in Customer Journey Analytics
+## Schritte zum Anzeigen von Adobe Advertising-Kampagnendaten in Customer Journey Analytics
 
 ### Überblick
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476847)
 
-### Einrichten einer Verbindung in Customer Journey Analytics
+### Schritt 1: Einrichten einer Verbindung in Customer Journey Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476860)
 
-### Einrichten von Datenansichten in Customer Journey Analytics
+### Schritt 2: Einrichten von Datenansichten in Customer Journey Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476872?learn=on)
 
-### Konfigurieren von Persistenzeinstellungen und abgeleiteten Feldern für Adobe Advertising-Dimensionen
+### Schritt 3: Konfigurieren von Persistenzeinstellungen und abgeleiteten Feldern für Adobe Advertising-Dimensionen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [Schriftliche Dokumentation](https://experienceleague.adobe.com/de/docs/advertising/integrations/customer-journey-analytics/overview).
+>* [Schriftliche Dokumentation](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
