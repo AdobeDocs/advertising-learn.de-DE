@@ -6,9 +6,9 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: 7f71e18cb639642e6c6b7c8a97c612855e3efdef
+source-git-commit: b262e156303c0502e2947038aac36b88d54c2480
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Erfahren Sie mehr über die ersten Schritte, die zum Senden von Customer Journey Analytics-Konversionsereignissen an Adobe Advertising erforderlich sind, wo Sie sie später in Optimierungsziele einbeziehen können.
 
-Nachdem Sie diese Schritte ausgeführt und die Datenansicht für Ihr Adobe-Konto-Team bereitgestellt haben, können Sie die zusätzlichen Schritte zum Einrichten der Integration ausführen. Weitere Informationen zu den zusätzlichen Schritten finden Sie in der [vollständigen Dokumentation](https://experienceleague.adobe.com/de/docs/advertising/integrations/customer-journey-analytics/overview).
+Nachdem Sie diese Schritte ausgeführt und die Datenansicht für Ihr Adobe-Konto-Team bereitgestellt haben, können Sie die zusätzlichen Schritte zum Einrichten der Integration ausführen.
 
 ### Überblick
 
@@ -35,7 +35,7 @@ Nachdem Sie diese Schritte ausgeführt und die Datenansicht für Ihr Adobe-Konto
 
 >[!MORELIKETHIS]
 >
->* [Überblick über die Integration zwischen Adobe Advertising und Customer Journey Analytics](https://experienceleague.adobe.com/de/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Überblick über die Integration zwischen Adobe Advertising und Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## Ersteinrichtung von Aufgaben zum Anzeigen von Adobe Advertising-Kampagnendaten in Customer Journey Analytics
 
@@ -54,3 +54,7 @@ Nachdem Sie diese Schritte ausgeführt und die Datenansicht für Ihr Adobe-Konto
 ### Konfigurieren von Persistenzeinstellungen und abgeleiteten Feldern für Adobe Advertising-Dimensionen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+
+>[!MORELIKETHIS]
+>
+>* [Schriftliche Dokumentation](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
