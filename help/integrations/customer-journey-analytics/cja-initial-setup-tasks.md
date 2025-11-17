@@ -29,7 +29,7 @@ Nachdem Sie diese Schritte ausgeführt und die Datenansicht für Ihr Adobe-Konto
 
 ## Erstellen einer Datenansicht in Analysis Workspace mit den zu exportierenden Metriken
 
->[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476765?captions=ger&learn=on)
 
 >[!MORELIKETHIS]
 >
