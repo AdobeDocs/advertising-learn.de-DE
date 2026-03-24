@@ -29,7 +29,7 @@ ht-degree: 18%
    + [Segmente  [!DNL Analytics]  Aktivierung und Reporting erstellen](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [Einführung in  [!DNL Analysis Workspace]  Reporting für Adobe Advertising-Daten](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
    + [Verwenden von  [!DNL Marketing Channels]  für die Berichterstellung in Adobe Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [ [!DNL Analytics]  für Adobe Advertising Activation und Reporting](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [&#x200B; [!DNL Analytics]  für Adobe Advertising Activation und Reporting](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Erstellen einer Kampagnenanalyse vor dem Start mit Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Erstellen von Adobe Advertising-Dashboards mit Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Erstellen [!DNL Analytics] benutzerdefinierter Metriken mit Adobe Advertising-Daten](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
