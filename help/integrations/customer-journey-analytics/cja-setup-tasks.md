@@ -23,7 +23,7 @@ Nachdem Sie diese Schritte ausgeführt und die Datenansicht für Ihr Adobe-Konto
 
 ### Überblick
 
->[!VIDEO](https://video.tv.adobe.com/v/3476810)
+>[!VIDEO](https://video.tv.adobe.com/v/3476832?captions=ger)
 
 ### Schritt 1: Standortkonto in Customer Journey Analytics einrichten
 
@@ -53,7 +53,7 @@ Nachdem Sie diese Schritte ausgeführt und die Datenansicht für Ihr Adobe-Konto
 
 ### Schritt 3: Konfigurieren von Persistenzeinstellungen und abgeleiteten Feldern für Adobe Advertising-Dimensionen
 
->[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476941?captions=ger&learn=on)
 
 >[!MORELIKETHIS]
 >
