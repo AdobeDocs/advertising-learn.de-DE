@@ -6,9 +6,14 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 exl-id: 1d9ef24f-02bf-4260-9d16-24580cd1c7a3
-source-git-commit: dce2767431ff07c573661fada5a5e4edeb95ea82
+TQID: https://experienceleague.adobe.com/EJ1EfQzqh5wKH1NzmHaOmC2BnFO4axdDVC6zKDGK1n0
+product_v2: id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: 208
 ht-degree: 0%
 
 ---
@@ -23,7 +28,7 @@ Nachdem Sie diese Schritte ausgeführt und die Datenansicht für Ihr Adobe-Konto
 
 ### Überblick
 
->[!VIDEO](https://video.tv.adobe.com/v/3476832?captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3476810)
 
 ### Schritt 1: Standortkonto in Customer Journey Analytics einrichten
 
@@ -35,7 +40,7 @@ Nachdem Sie diese Schritte ausgeführt und die Datenansicht für Ihr Adobe-Konto
 
 >[!MORELIKETHIS]
 >
->* [Überblick über die Integration zwischen Adobe Advertising und Customer Journey Analytics](https://experienceleague.adobe.com/de/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Überblick über die Integration zwischen Adobe Advertising und Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## Schritte zum Anzeigen von Adobe Advertising-Kampagnendaten in Customer Journey Analytics
 
@@ -53,8 +58,8 @@ Nachdem Sie diese Schritte ausgeführt und die Datenansicht für Ihr Adobe-Konto
 
 ### Schritt 3: Konfigurieren von Persistenzeinstellungen und abgeleiteten Feldern für Adobe Advertising-Dimensionen
 
->[!VIDEO](https://video.tv.adobe.com/v/3476941?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [Schriftliche Dokumentation](https://experienceleague.adobe.com/de/docs/advertising/integrations/customer-journey-analytics/overview).
+>* [Schriftliche Dokumentation](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
