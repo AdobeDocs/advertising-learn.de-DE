@@ -5,9 +5,9 @@ breadcrumb-title: Advertising – Tutorials
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
+source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 16%
 
 ---
@@ -29,11 +29,10 @@ ht-degree: 16%
    + [Segmente  [!DNL Analytics]  Aktivierung und Reporting erstellen](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [Einführung in  [!DNL Analysis Workspace]  Reporting für Adobe Advertising-Daten](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
    + [Verwenden von  [!DNL Marketing Channels]  für die Berichterstellung in Adobe Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [&#x200B; [!DNL Analytics]  für Adobe Advertising Activation und Reporting](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [ [!DNL Analytics]  für Adobe Advertising Activation und Reporting](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Erstellen einer Kampagnenanalyse vor dem Start mit Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Erstellen von Adobe Advertising-Dashboards mit Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Erstellen [!DNL Analytics] benutzerdefinierter Metriken mit Adobe Advertising-Daten](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ {hide-from-toc}[Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
 <!-- 
 Add to DSP chapter once the videos are complete:
