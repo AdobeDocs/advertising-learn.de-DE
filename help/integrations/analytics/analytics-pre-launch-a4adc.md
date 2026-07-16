@@ -14,9 +14,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 56
+source-wordcount: 54
 ht-degree: 0%
 
 ---
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 *Werbetreibende mit[!DNL Adobe Analytics for Adobe Advertising]*
 
-Erfahren Sie, wie Sie mit Adobe Analytics die Grundlage für den Start einer Paid-Media-Kampagne in Adobe Advertising schaffen.
+Erfahren Sie, wie Sie mit Adobe Analytics den Start einer Paid-Media-Kampagne in Adobe Advertising vorbereiten können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33501)

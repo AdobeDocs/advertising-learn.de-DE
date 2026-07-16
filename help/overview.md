@@ -1,5 +1,5 @@
 ---
-title: Adobe Advertising – Tutorials
+title: Adobe Advertising-Tutorials
 description: Eine Sammlung von Videos und Tutorials für Adobe Advertising.
 cloud: Experience Cloud
 product: advertising cloud
@@ -17,22 +17,22 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 64
-ht-degree: 23%
+source-wordcount: 61
+ht-degree: 14%
 
 ---
 
-# Adobe Advertising – Tutorials
+# Adobe Advertising-Tutorials
 
-Diese Video-Tutorials sowie die [Dokumentation zu Adobe Advertising](https://experienceleague.adobe.com/de/docs/advertising) helfen Ihnen, Adobe Advertising schneller als je zuvor zu nutzen, um Kundeneinblicke zu gewinnen.
+In diesen Video-Tutorials wird zusammen mit der [Adobe Advertising-Dokumentation](https://experienceleague.adobe.com/de/docs/advertising) erläutert, wie Sie Adobe Advertising für schnellere Kundeneinblicke verwenden können.
 
 Videos sind verfügbar für:
 
 * Advertising DSP
 
-* Integrationen von Advertising DSP und Advertising mit anderen Adobe Experience Cloud-Produkten und -Services in den Bereichen Suche, Social und Commerce
+* Integration von Advertising DSP und Advertising mit anderen Adobe Experience Cloud-Produkten und -Services in Search, Social und Commerce
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
