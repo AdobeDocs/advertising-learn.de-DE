@@ -1,9 +1,8 @@
 ---
 source-git-commit: 211f4697f6abf8e21f2043a466e3e8dd604db701
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '443'
 ht-degree: 0%
-
 ---
 # Adobe-Verhaltenskodex
 
