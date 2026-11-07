@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie die Viewthrough- und Clickthrough-Eingabedaten von Adobe Advertising in Adobe Analytics [!DNL Marketing Channels] integriert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/33502)
+>[!VIDEO](https://video.tv.adobe.com/v/3506652?captions=ger)

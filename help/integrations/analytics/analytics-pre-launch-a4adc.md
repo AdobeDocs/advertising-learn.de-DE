@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Adobe Analytics den Start einer Paid-Media-Kampagne in Adobe Advertising vorbereiten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/33501)
+>[!VIDEO](https://video.tv.adobe.com/v/3506455?captions=ger)

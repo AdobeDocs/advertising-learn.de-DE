@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Hier erfahren Sie, wie Sie ein Adobe Advertising-Dashboard für die Live-Kampagnenüberwachung erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/33922)
+>[!VIDEO](https://video.tv.adobe.com/v/3506515?captions=ger)
