@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Adobe Analytics Site-Retargeting-Pools für das Adobe Advertising-Remarketing erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/33503)
+>[!VIDEO](https://video.tv.adobe.com/v/3506673?captions=ger)

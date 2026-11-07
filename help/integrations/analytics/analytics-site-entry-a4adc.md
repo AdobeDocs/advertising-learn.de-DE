@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie einen Adobe Advertising Site Entry-Bericht erstellen, um den Wochentag, die Tageszeit, den Browser und geografische Einflüsse zu überwachen.
 
->[!VIDEO](https://video.tv.adobe.com/v/33921)
+>[!VIDEO](https://video.tv.adobe.com/v/3506584?captions=ger)

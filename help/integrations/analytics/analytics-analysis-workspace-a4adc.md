@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihre Adobe Advertising-Daten zum Erstellen visueller Berichte in Adobe Analytics [!DNL Analysis Workspace] verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/33492)
+>[!VIDEO](https://video.tv.adobe.com/v/3506691?captions=ger)

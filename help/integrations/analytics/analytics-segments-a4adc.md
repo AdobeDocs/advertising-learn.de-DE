@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Adobe Advertising-Dimensionen Segmente für eine verbesserte Berichterstellung und Analyse erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/33916)
+>[!VIDEO](https://video.tv.adobe.com/v/3506464?captions=ger)

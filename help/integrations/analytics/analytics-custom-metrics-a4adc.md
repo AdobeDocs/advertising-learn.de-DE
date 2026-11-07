@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Identifizieren Sie benutzerdefinierte Metriken, die erstellt werden sollen, wenn Sie Adobe Advertising-Daten in Adobe Analytics verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/33919)
+>[!VIDEO](https://video.tv.adobe.com/v/3506492?captions=ger)

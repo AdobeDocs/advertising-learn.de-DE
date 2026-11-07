@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Machen Sie sich mit den Vorteilen der Integration zwischen Adobe Advertising und Adobe Analytics vertraut, einschließlich der durch sie gelösten Kundenprobleme.
 
->[!VIDEO](https://video.tv.adobe.com/v/33491)
+>[!VIDEO](https://video.tv.adobe.com/v/3506555?captions=ger)
